@@ -141,7 +141,7 @@ function App() {
   return (
     <div className="app">
 
-      {/* ================= NAVBAR ================= */}
+      
 
       <nav className="navbar">
         <div className="navbar-inner">
@@ -188,7 +188,7 @@ function App() {
       </nav>
 
 
-      {/* ================= HERO SECTION ================= */}
+      
 
       <section className="hero-section">
 
@@ -236,7 +236,7 @@ function App() {
       </section>
 
 
-      {/* ================= TECHNOLOGIES SECTION ================= */}
+      {/*  TECHNOLOGIES SECTION */}
 
       <section
         className="technologies-section"
@@ -258,7 +258,7 @@ function App() {
 
         <div className="technology-area">
 
-          {/* ================= TECHNOLOGY CARDS ================= */}
+          {/* TECHNOLOGY CARDS  */}
 
           <div className="technology-grid">
 
@@ -322,7 +322,7 @@ function App() {
           </div>
 
 
-          {/* ================= YOUR STACK ================= */}
+          {/* YOUR STACK  */}
 
           <div className="your-stack">
 
@@ -396,13 +396,13 @@ function App() {
       </section>
 
 
-      {/* ================= FOOTER ================= */}
+      {/*  FOOTER  */}
 
       <footer className="footer">
 
         <div className="footer-container">
 
-          {/* BRAND */}
+          
 
           <div className="footer-brand">
 
@@ -436,7 +436,7 @@ function App() {
           </div>
 
 
-          {/* PRODUCT */}
+          
 
           <div className="footer-column">
 
@@ -459,7 +459,7 @@ function App() {
           </div>
 
 
-          {/* COMPANY */}
+          
 
           <div className="footer-column">
 
@@ -482,7 +482,7 @@ function App() {
           </div>
 
 
-          {/* LEGAL */}
+        
 
           <div className="footer-column">
 
@@ -503,7 +503,7 @@ function App() {
         </div>
 
 
-        {/* ================= FOOTER BOTTOM ================= */}
+       
 
         <div className="footer-bottom">
 
